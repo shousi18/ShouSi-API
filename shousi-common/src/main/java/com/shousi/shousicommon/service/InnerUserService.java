@@ -6,7 +6,7 @@ import com.shousi.shousicommon.model.vo.UserVO;
 /**
  * 用户服务
  *
- * @author yupi
+ * @author shousi
  */
 public interface InnerUserService {
 

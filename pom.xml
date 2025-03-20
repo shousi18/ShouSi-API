@@ -85,7 +85,7 @@
             </dependency>
             <dependency>
                 <groupId>com.shousi</groupId>
-                <artifactId>shousi-client-sdk</artifactId>
+                <artifactId>shousi-api-sdk</artifactId>
                 <version>0.0.1</version>
             </dependency>
             <!-- https://mvnrepository.com/artifact/junit/junit -->

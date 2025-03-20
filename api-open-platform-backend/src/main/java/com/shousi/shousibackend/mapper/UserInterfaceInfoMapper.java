@@ -7,10 +7,10 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
-* @author 86172
+* @author shousi
 * @description 针对表【user_interface_info(用户调用接口关系表)】的数据库操作Mapper
 * @createDate 2024-12-17 20:20:04
-* @Entity com.yupi.project.model.entity.UserInterfaceInfo
+* @Entity com.shousi.shousibackend.model.entity.UserInterfaceInfo
 */
 public interface UserInterfaceInfoMapper extends BaseMapper<UserInterfaceInfo> {
 

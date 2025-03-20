@@ -3,7 +3,7 @@ package com.shousi.shousicommon.common;
 /**
  * 返回工具类
  *
- * @author yupi
+ * @author shousi
  */
 public class ResultUtils {
 

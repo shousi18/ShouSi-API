@@ -3,7 +3,7 @@ package com.shousi.shousicommon.constant;
 /**
  * 用户常量
  *
- * @author yupi
+ * @author shousi
  */
 public interface UserConstant {
 

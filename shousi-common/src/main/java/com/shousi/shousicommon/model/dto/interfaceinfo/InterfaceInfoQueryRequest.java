@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 查询请求
  *
- * @author yupi
+ * @author shousi
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

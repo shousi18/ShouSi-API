@@ -10,7 +10,7 @@ import com.shousi.shousibackend.service.UserInterfaceInfoService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author 86172
+ * @author shousi
  * @description 针对表【user_interface_info(用户调用接口关系表)】的数据库操作Service实现
  * @createDate 2024-12-17 20:20:04
  */

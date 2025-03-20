@@ -1,7 +1,7 @@
 package com.shousi.shousicommon.service;
 
 /**
- * @author 86172
+ * @author shousi
  * @description 针对表【user_interface_info(用户调用接口关系表)】的数据库操作Service
  * @createDate 2024-12-17 20:20:04
  */

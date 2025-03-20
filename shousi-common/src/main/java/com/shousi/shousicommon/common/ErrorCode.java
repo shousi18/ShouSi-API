@@ -3,7 +3,7 @@ package com.shousi.shousicommon.common;
 /**
  * 错误码
  *
- * @author yupi
+ * @author shousi
  */
 public enum ErrorCode {
 

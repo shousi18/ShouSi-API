@@ -26,7 +26,7 @@ import static com.shousi.shousicommon.constant.UserConstant.ADMIN_ROLE;
 /**
  * 用户接口
  *
- * @author yupi
+ * @author shousi
  */
 @RestController
 @RequestMapping("/user")

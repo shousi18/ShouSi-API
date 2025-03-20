@@ -5,7 +5,7 @@ import org.springframework.web.multipart.MultipartFile;
 public interface FileService {
 
     /**
-     * 阿里云OSS文件上传
+     * 文件上传
      * @param file
      * @return
      */

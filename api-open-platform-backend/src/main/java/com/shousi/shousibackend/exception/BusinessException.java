@@ -5,7 +5,7 @@ import com.shousi.shousicommon.common.ErrorCode;
 /**
  * 自定义异常类
  *
- * @author yupi
+ * @author shousi
  */
 public class BusinessException extends RuntimeException {
 

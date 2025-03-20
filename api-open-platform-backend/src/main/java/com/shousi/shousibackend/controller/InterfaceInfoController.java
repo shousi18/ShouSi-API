@@ -36,7 +36,7 @@ import java.util.stream.Collectors;
 /**
  * 接口管理
  *
- * @author yupi
+ * @author shousi
  */
 @RestController
 @RequestMapping("/InterfaceInfo")

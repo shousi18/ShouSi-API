@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import com.shousi.shousicommon.model.entity.InterfaceInfo;
 
 /**
- * @author 86172
+ * @author shousi
  */
 public interface InterfaceInfoService extends IService<InterfaceInfo> {
 
