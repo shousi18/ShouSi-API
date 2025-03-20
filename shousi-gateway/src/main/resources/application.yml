@@ -1,0 +1,30 @@
+server:
+  port: 8099
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: api_route
+          uri: http://localhost:8090
+          predicates:
+            - Path=/api/**
+  redis:
+    database: 5
+    port: 6379
+    host: localhost
+dubbo:
+  application:
+    name: dubbo-api-platform-backend-provider
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    id: nacos-registry
+    address: nacos://localhost:8848
+# 日志打印最低级别
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          gateway: trace

@@ -1,0 +1,8 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /api
+shousiapi:
+  client:
+    access-key: shousi18
+    secret-key: shousi18
